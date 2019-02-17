@@ -6,7 +6,7 @@ export default class Leaderboard extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      tableHead: ["Climber Name", "City", "Score", "Profile"],
+      tableHead: ["Name", "City", "Score", "Profile"],
       tableData: [
         ["Susan Wojcicki", "San Bruno", "50", "d"],
         ["Scott Forstall", "Cupertino", "49", "d"],

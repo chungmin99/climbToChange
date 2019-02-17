@@ -2,9 +2,10 @@ import React from 'react'
 
 import Main from './Main/Main'
 import Mission from './Mission/Mission'
-import Profile from './Profile/Profile'
+//import Profile from './Profile/Profile'
 import Policies from './Policies/Policies'
-import Leaderboard from './Leaderboard/Leaderboard'
+//import Leaderboard from './Leaderboard/Leaderboard'
+import Leaderboard from './Profile/leaderboard'
 
 import { 
     createAppContainer, 
@@ -15,7 +16,7 @@ import {
 const Stack = {
     Main: { screen: Main },
     Mission: { screen: Mission },
-    Profile: { screen: Profile },
+//    Profile: { screen: Profile },
     Policies: { screen: Policies },
     Leaderboard: { screen: Leaderboard }
 };
@@ -29,10 +30,10 @@ const DrawerRoutes = {
         name: 'MissionStack',
         screen: createStackNavigator(Stack, { initialRouteName: 'Mission' })
     },
-    'My Profile':{
-        name: 'ProfileStack',
-        screen: createStackNavigator(Stack, { initialRouteName: 'Profile' })
-    },
+//    'My Profile':{
+//        name: 'ProfileStack',
+//        screen: createStackNavigator(Stack, { initialRouteName: 'Profile' })
+//    },
     'Important Policies':{
         name: 'PoliciesStack',
         screen: createStackNavigator(Stack, { initialRouteName: 'Policies' })
