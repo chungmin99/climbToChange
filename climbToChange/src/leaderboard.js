@@ -4,7 +4,7 @@ import { Climber, Badge, Icon, withBadge } from "react-native-elements";
 
 import leaderboard from "react-native-leaderboard";
 
-export default class Climber extends Component {
+export default class Climber extends React.Component {
   state = {
     data: [
       {
@@ -14,7 +14,7 @@ export default class Climber extends Component {
 
       {
         name: "Chung Min",
-        score: 244
+        score: 24
       }
     ]
   };
