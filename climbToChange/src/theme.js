@@ -13,7 +13,8 @@ const theme = {
     },
     content: {
         fontSize: 15,
-        textAlign: 'justify'
+        textAlign: 'justify',
+        margin: 10
     }
 }
 const color = {
