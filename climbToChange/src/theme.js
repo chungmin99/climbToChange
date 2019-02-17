@@ -19,7 +19,7 @@ const theme = {
     }
 }
 const color = {
-    main: 'rgba(0,0,255,0.5)',
+    main: 'rgba(0,150,25,0.3)',
     sub: 'green',
     point: 'white'
 }

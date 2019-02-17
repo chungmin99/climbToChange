@@ -20,12 +20,12 @@ const Block = ({box}) =>
             <Button 
                 onPress={ () => {Linking.openURL(`${box.sourceurl}`)} }
                 title="About Source"
-                color={color.sub}
+                color={color.point}
             />
             <Button 
                 onPress={ () => {Linking.openURL(`${box.articleurl}`)} }
                 title="Go to Article"
-                color={color.sub}
+                color={color.point}
             />
             </View>
         </TouchableOpacity>
