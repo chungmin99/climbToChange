@@ -3,9 +3,5 @@
   "lanType": "ip",
   "dev": true,
   "minify": false,
-<<<<<<< HEAD
-  "urlRandomness": "36-qp2"
-=======
   "urlRandomness": null
->>>>>>> 5baaf66a3af815e9de13b3d507366d9971e992fd
 }
