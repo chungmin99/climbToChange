@@ -1,10 +1,19 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import { Tile } from 'react-native-elements';
 
-export default class Mission extends React.Component {
-    render() {
-        return ( 
-            <Text>Mission</Text>
-        )
-    }
+export default class DisplayTile extends React.Component {
+  render() {
+    return (
+      <Tile
+        imageSrc={require('./nature.jpg')}
+
+//      imageSrc={require('./climbToChange/src/Mission/nature.jpg')}
+        height={640}
+        title="Our Mission"
+        featured
+        caption="Build your knowledge. Change the world. Together, we can stop climate change."
+      />
+    ); 
+  }
 }
