@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { StyleSheet, View, Text, TouchableOpacity, Alert } from "react-native";
 import { Table, TableWrapper, Row, Cell } from "react-native-table-component";
 
-export default class Leaderboard extends React.Component {
+export default class leaderboard extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
