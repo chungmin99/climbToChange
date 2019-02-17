@@ -4,8 +4,7 @@ import { StyleSheet } from 'react-native'
 const theme = {
     header: {
         fontSize: 40, 
-        textAlign: 'center',
-        margin: 20
+        textAlign: 'center'
     },
     subtitle: {
         fontSize: 12, 
@@ -14,12 +13,11 @@ const theme = {
     },
     content: {
         fontSize: 15,
-        textAlign: 'justify',
-        margin: 20
+        textAlign: 'justify'
     }
 }
 const color = {
-    main: 'blue',
+    main: 'rgba(0,0,255,0.5)',
     sub: 'green',
     point: 'white'
 }
