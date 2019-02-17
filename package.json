@@ -9,11 +9,11 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^29.0.0",
+    "@fand/react-infinite-scroll-container": "0.0.2",
+    "expo": "^32.0.0",
     "react": "16.5.0",
-    "react-native": "0.55.4",
-    "vue-native-core": "0.0.8",
-    "vue-native-helper": "0.0.9"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-navigation": "^3.3.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^4.0.0",
