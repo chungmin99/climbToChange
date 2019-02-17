@@ -1,37 +1,42 @@
 {
     "box1": {
-        "img": "http://pngimg.com/uploads/cat/cat_PNG50497.png",
-        "title": "CATS",
-        "tags": "animals, happy",
-        "description": "Cat named Bubbles crosses the street this morning",
-        "url": "https://www.google.com"
+        "img": "https://media.npr.org/assets/img/2019/02/07/aoc_dsc0436-edit_custom-6466898aedf630d51e9be8fcbd653f1a2470d707-s800-c85.jpg",
+        "title": "[NPR] Rep. Alexandria Ocasio-Cortez Releases Green New Deal Outline",
+        "tags": "Legislation, Carbon Emissions, Economy",
+        "description": "Rep. Alexandria Ocasio-Cortez and Sen. Ed Markey plans to heavily cut carbon emissions in economy, while creating jobs and boosting the economy. ",
+        "articleurl": "https://www.npr.org/2019/02/07/691997301/rep-alexandria-ocasio-cortez-releases-green-new-deal-outline",
+        "sourceurl": "https://www.npr.org/about-npr/693830557/about-npr"
     },
     "box2": {
-        "img": "http://pngimg.com/uploads/cat/cat_PNG50497.png",
-        "title": "CATS",
-        "tags": "animals, happy",
-        "description": "Cat named Bubbles crosses the street this morning",
-        "url": "https://www.google.com"
+        "img": "https://climate.nasa.gov/system/news_items/main_images/2841_globezoom.jpg",
+        "title": "[NASA] 2018 fourth warmest year in continued warming trend, according to NASA, NOAA",
+        "tags": "Global Warming, Temperature, NASA",
+        "description": "Earth's global surface temperature continues to rise, and NASA's Goddard Institute for Stapace Studies tell the current effects of global warming.",
+        "articleurl": "https://climate.nasa.gov/news/2841/2018-fourth-warmest-year-in-continued-warming-trend-according-to-nasa-noaa/",
+        "sourceurl": "https://www.nasa.gov/about/index.html"
     },
     "box3": {
-        "img": "http://pngimg.com/uploads/cat/cat_PNG50497.png",
-        "title": "CATS",
-        "tags": "animals, happy",
-        "description": "Cat named Bubbles crosses the street this morning",
-        "url": "https://www.google.com"
+        "img": "https://media4.s-nbcnews.com/j/newscms/2019_07/2754476/190215-climate-strike-mc-500_ac95aa8264dfa935183c743a6b50b754.fit-1000w.JPG",
+        "title": "[NBC] U.K. children walk out of classrooms to demand action on climate change",
+        "tags": "Climate Change, Students, School, Future",
+        "description": "Thousands of students in U.K. take their futures into their own hands, voicing their frustration against the economy and public spending. There is little public attention paid to people under 18.",
+        "articleurl": "https://www.nbcnews.com/news/world/u-k-children-walk-out-classrooms-demand-action-climate-change-n971486",
+        "sourceurl": "http://www.nbcuniversal.com/business/nbc-news"
     },
     "box4": {
-        "img": "http://pngimg.com/uploads/cat/cat_PNG50497.png",
-        "title": "CATS",
-        "tags": "animals, happy",
-        "description": "Cat named Bubbles crosses the street this morning",
-        "url": "https://www.google.com"
+        "img": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2019/02/2019-02-14-ClimatSummit-Meeting-PGA-NICA-797671.jpg/image1170x530cropped.jpg",
+        "title": "[UN News] UN announces roadmap to Climate Summit in 2019, a ‘critical year’ for climate action",
+        "tags": "United Nations, Climate, Roadmap",
+        "description": "General Assembly President Maria Espinosa claims 2019 is the \"last chance\" for an effective international climate action, and aims to double national commitments & ambition for it.",
+        "articleurl": "https://news.un.org/en/story/2019/02/1032801",
+        "sourceurl": "http://www.un.org/en/about-un/"
     },
     "box5": {
-        "img": "http://pngimg.com/uploads/cat/cat_PNG50497.png",
-        "title": "CATS",
-        "tags": "animals, happy",
-        "description": "Cat named Bubbles crosses the street this morning",
-        "url": "https://www.google.com"
+        "img": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fmarshallshepherd%2Ffiles%2F2019%2F02%2F6-Americas-Cartoons-Slide-1-e1459619373734.jpg",
+        "title": "11 Things Climate Change 'Dismissive' People Say On Social Media",
+        "tags": "Social Media, Climate Change",
+        "description": "Roughly 9% of U.S. population is 'dismissive' towards climate change, believing it a hoax. These are the list of their arguments -- and why they're wrong.",
+        "articleurl": "https://www.forbes.com/sites/marshallshepherd/2019/02/16/11-things-climate-change-dismissive-people-say-on-social-media/#1e7efecb15e4",
+        "sourceurl": "http://www.forbes.com/forbes-media/who-we-are/"
     }
 }

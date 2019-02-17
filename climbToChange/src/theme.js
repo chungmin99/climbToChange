@@ -3,8 +3,9 @@ import { StyleSheet } from 'react-native'
 
 const theme = {
     header: {
-        fontSize: 40, 
-        textAlign: 'center'
+        fontSize: 20, 
+        textAlign: 'center',
+        margin: 10
     },
     subtitle: {
         fontSize: 12, 

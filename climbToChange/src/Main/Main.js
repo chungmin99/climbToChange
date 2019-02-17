@@ -6,8 +6,6 @@ import Entries from './data.json'
 
 export default class Main extends React.Component {
     render() {
-        console.log(Entries)
-        console.log(Entries.box1)
         return ( 
             <ScrollView>
             <View>
